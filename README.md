@@ -3,7 +3,7 @@
 <img src="python-logo.png" />
 
 
-This was build upon the review material on 
+This was built upon the review material on 
 www.ThinkTank.com
 
 
