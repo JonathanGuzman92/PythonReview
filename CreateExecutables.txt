@@ -1,0 +1,8 @@
+Normally when you try to run a python program you would run it in the following matter
+
+$ python testCode.py
+
+in order to run ./testCode.py you must compile the code in the following matter
+
+$ chmod a+x testCode.py
+$ ./testCode.py
